@@ -1,4 +1,4 @@
-<h1>QR CODE GENERATE </h1>
+<h1>QR CODE GENERATOR </h1>
 i create a simple and efficient QR Code Generator built using JavaScript. 
 This project allows users to generate QR codes for any text or URL input.
 <h4>Technologies used:</h4>
