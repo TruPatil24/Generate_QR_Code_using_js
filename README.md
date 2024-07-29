@@ -2,7 +2,9 @@
 i create a simple and efficient QR Code Generator built using JavaScript. 
 This project allows users to generate QR codes for any text or URL input.
 <h4>Technologies used:</h4>
-HTML
-CSS
-JavaScript
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+</ul>
 <p>User freindly interface, generate QR codes for any text or URL and responsible design </p>
